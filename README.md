@@ -1,13 +1,22 @@
 ## Hi there 👋
 
-I'm Grace, a data scientist based in the United Kingdom. 🇬🇧
+I'm Grace, a data scientist based in the United Kingdom
 
-I build  statistical models, predicitve models, data simulation. 💻 📊
+I build statistical models, predictive models, and data simulations 💻📊
 
-My main tech stack is Python, R, SQL, Machine learning
+---
 
-⚡ Fun fact: ...
-- I love watching animal channel 🐶🐱
-- I'm a marvel fan 
-- Spiderman is my favorite character after iron man🕸️
-- Hobbies : Cooking, doing DIYs and learning new things
+### Tools & Tech
+- Python
+- R
+- SQL
+- Machine Learning
+- Tableau
+
+---
+
+### ⚡ Fun facts
+- I love watching animal channels 🐶🐱
+- I'm a Marvel fan
+- Spiderman is my favorite character, right after Iron Man 🕸️
+- Hobbies: cooking, DIYs, and learning new things
