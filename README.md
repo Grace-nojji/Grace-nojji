@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hi there 👋, Im Grace
 
-I'm Grace, a data scientist based in the United Kingdom
-
-I build statistical models, predictive models, and data simulations 💻📊
+📊 Data scientist, and I love turning messy data into meaningful stories, one model at a time<br/>
+🎓 Studied Health Data Science at the University of Exeter<br/>
+🌱 From statistical models to simulations, I love exploring what data can teach us<br/>
+💡 Constantly learning, building, and experimenting with new ways to work with data<br/>
 
 ---
 
-### Tools & Tech
+### Tech Stack
 - Python
 - R
 - SQL
@@ -16,7 +17,7 @@ I build statistical models, predictive models, and data simulations 💻📊
 ---
 
 ### ⚡ Fun facts
-- I love watching animal channels 🐶🐱
-- I'm a Marvel fan
-- Spiderman is my favorite character, right after Iron Man 🕸️
-- Hobbies: cooking, DIYs, and learning new things
+- 🐶🐱 I love watching animal channels
+- 🦸 I'm a Marvel fan
+- 🕸️ Spiderman is my favorite character, right after Iron Man
+- 🍳🔨 Hobbies: cooking, DIYs, and learning new skills
